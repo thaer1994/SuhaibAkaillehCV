@@ -122,7 +122,7 @@ window.onscroll = () => {
     }
 
     function dncv(){
-        window.location.href = 'https://cdn.fbsbx.com/v/t59.2708-21/340700253_895624405057575_9199034040885423978_n.pdf/Suhib.pdf?_nc_cat=102&ccb=1-7&_nc_sid=0cab14&_nc_ohc=IlnwAWSIIvsAX_llZw2&_nc_ht=cdn.fbsbx.com&oh=03_AdRzkqmruco127on2aKdatiDg1d2vrIrE2Nk7F_ssuEFOg&oe=643457D7&dl=1'
+        window.location.href = 'https://docdro.id/gJwpi9K'
     }
 
 
