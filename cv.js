@@ -122,7 +122,7 @@ window.onscroll = () => {
     }
 
     function dncv(){
-        window.location.href = 'https://docdro.id/gJwpi9K'
+        window.location.href = 'https://cdn.fbsbx.com/v/t59.2708-21/348859920_771918707806970_7143724752837808076_n.pdf/Suhib-Akailleh-CV.pdf?_nc_cat=100&ccb=1-7&_nc_sid=0cab14&_nc_ohc=bTufvOFjk1AAX8F6IVX&_nc_ht=cdn.fbsbx.com&oh=03_AdTRoG9w1gNgazH7sQbEf1FFC-AfLUP7iU5W2rXMxPz2CA&oe=6470211E&dl=1'
     }
 
 
